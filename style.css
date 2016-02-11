@@ -1,0 +1,75 @@
+html{
+    <background: black>
+        
+}
+
+
+
+
+h1{
+    color: #0052cc; font-size: 60px; 
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+
+
+h2{
+    color: #b38600; font-size: 50px; 
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+
+
+h3{
+    color: red; font-size: 30px; 
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+
+h4{
+    color: #b38600; font-size: 25px; 
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+
+h5{
+    color: red; font-size: 25px; 
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+
+h6{
+    color: red; font-size: 5px;text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+p{
+    color: #b38600; font-size: 25px; text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+
+
+ul{
+    color: red; font-size 25px;text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+li{
+    color: #b38600; font-size 25px;text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
